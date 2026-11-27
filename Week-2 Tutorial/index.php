@@ -6,14 +6,11 @@
     <title>Week 2 - Advanced PHP</title>
 </head>
 <body>
-    <h1>Week 2 - Advanced PHP</h1>
+    <h1>Week 2 - Advanced PHP Code</h1>
     <p>Full Stack Web Development - Week 2 Tutorial</p>
     <?php
         $categories = ["Laptops", "Phones", "Accessories", "Audio"];
 
-foreach ($categories as $category) {
-    echo $category . "<br>";
-}
     ?>
 </body>
 </html>
